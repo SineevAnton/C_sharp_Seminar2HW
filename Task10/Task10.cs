@@ -7,7 +7,7 @@ while (true)
 {
     Console.Write("Enter a number between 100 and 999: ");
     string text = Console.ReadLine();
-    if (int.TryParse(text, out int number))
+    if (int.TryParse(text, out int number)) //Checking if input is a number within acceptable limits 
     {
         if (number < 100 || number > 999)
         {

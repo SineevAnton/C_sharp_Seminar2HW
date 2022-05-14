@@ -1,0 +1,15 @@
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/obj/Debug/net6.0/Task13.csproj.AssemblyReference.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/obj/Debug/net6.0/Task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/obj/Debug/net6.0/Task13.AssemblyInfoInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/obj/Debug/net6.0/Task13.AssemblyInfo.cs
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/obj/Debug/net6.0/Task13.csproj.CoreCompileInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/bin/Debug/net6.0/Task13
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/bin/Debug/net6.0/Task13.deps.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/bin/Debug/net6.0/Task13.runtimeconfig.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/bin/Debug/net6.0/Task13.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/bin/Debug/net6.0/Task13.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/obj/Debug/net6.0/Task13.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/obj/Debug/net6.0/refint/Task13.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/obj/Debug/net6.0/Task13.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/obj/Debug/net6.0/Task13.genruntimeconfig.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar2/C_sharp_Seminar2HW/Task13/obj/Debug/net6.0/ref/Task13.dll
